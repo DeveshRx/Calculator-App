@@ -1,0 +1,36 @@
+C:\Users\Internet\AppData\Local\Temporary Projects\calculator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Internet\AppData\Local\Temporary Projects\calculator\obj\x86\Debug\calculator.Form1.resources
+C:\Users\Internet\AppData\Local\Temporary Projects\calculator\obj\x86\Debug\calculator.Resources.resources
+C:\Users\Internet\AppData\Local\Temporary Projects\calculator\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Internet\AppData\Local\Temporary Projects\calculator\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Internet\AppData\Local\Temporary Projects\calculator\bin\Debug\calculator.exe
+C:\Users\Internet\AppData\Local\Temporary Projects\calculator\bin\Debug\calculator.pdb
+C:\Users\Internet\AppData\Local\Temporary Projects\calculator\bin\Debug\calculator.xml
+C:\Users\Internet\AppData\Local\Temporary Projects\calculator\obj\x86\Debug\calculator.exe
+C:\Users\Internet\AppData\Local\Temporary Projects\calculator\obj\x86\Debug\calculator.xml
+C:\Users\Internet\AppData\Local\Temporary Projects\calculator\obj\x86\Debug\calculator.pdb
+E:\Devesh inc\cc++\calculator\calculator\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Devesh inc\cc++\calculator\calculator\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Devesh inc\cc++\calculator\calculator\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Devesh inc\cc++\calculator\calculator\obj\x86\Debug\GenerateResource.read.3.tlog
+E:\Devesh inc\cc++\calculator\calculator\obj\x86\Debug\GenerateResource.read.4.tlog
+E:\Devesh inc\cc++\calculator\calculator\bin\Debug\Devesh Maths Calculator.exe.config
+E:\Devesh inc\cc++\calculator\calculator\bin\Debug\Devesh Maths Calculator.exe.manifest
+E:\Devesh inc\cc++\calculator\calculator\bin\Debug\Devesh Maths Calculator.application
+E:\Devesh inc\cc++\calculator\calculator\bin\Debug\Devesh Maths Calculator.exe
+E:\Devesh inc\cc++\calculator\calculator\bin\Debug\Devesh Maths Calculator.pdb
+E:\Devesh inc\cc++\calculator\calculator\bin\Debug\Devesh Maths Calculator.xml
+E:\Devesh inc\cc++\calculator\calculator\obj\x86\Debug\Devesh_Maths_Calculator.AboutBox1.resources
+E:\Devesh inc\cc++\calculator\calculator\obj\x86\Debug\Devesh_Maths_Calculator.Form1.resources
+E:\Devesh inc\cc++\calculator\calculator\obj\x86\Debug\Devesh_Maths_Calculator.Resources.resources
+E:\Devesh inc\cc++\calculator\calculator\obj\x86\Debug\Devesh_Maths_Calculator.SplashScreen1.resources
+E:\Devesh inc\cc++\calculator\calculator\obj\x86\Debug\Devesh Maths Calculator.TrustInfo.xml
+E:\Devesh inc\cc++\calculator\calculator\obj\x86\Debug\Devesh Maths Calculator.exe.manifest
+E:\Devesh inc\cc++\calculator\calculator\obj\x86\Debug\Devesh Maths Calculator.application
+E:\Devesh inc\cc++\calculator\calculator\obj\x86\Debug\Devesh Maths Calculator.exe
+E:\Devesh inc\cc++\calculator\calculator\obj\x86\Debug\Devesh Maths Calculator.xml
+E:\Devesh inc\cc++\calculator\calculator\obj\x86\Debug\Devesh Maths Calculator.pdb
+E:\Devesh inc\Devesh app lab\Devesh App World\Beta lab\calculator\calculator\bin\Debug\Devesh Maths Calculator.exe.config
+E:\Devesh inc\Devesh app lab\Devesh App World\Beta lab\calculator\calculator\obj\x86\Debug\Devesh Maths Calculator.exe
+E:\Devesh inc\Devesh app lab\Devesh App World\Beta lab\calculator\calculator\obj\x86\Debug\Devesh Maths Calculator.xml
+E:\Devesh inc\Devesh app lab\Devesh App World\Beta lab\calculator\calculator\obj\x86\Debug\Devesh Maths Calculator.pdb
